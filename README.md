@@ -39,6 +39,17 @@ Time allotted: 2 Hours
 
 1. Install dependencies:
 
+"dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.1.0"
+  }
 
 ## Usage
 
@@ -46,13 +57,13 @@ Time allotted: 2 Hours
 
 To start the server, run the following command:
 
-run server: npm start
+# npm start
 
 ### Running the Client
 
 To run the client, use the following command:
 
-run client: npm run dev
+# npm run dev
 
 ### Other Commands
 
