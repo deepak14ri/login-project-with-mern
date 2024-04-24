@@ -46,11 +46,19 @@ Time allotted: 2 Hours
 
 To start the server, run the following command:
 
+run server: npm start
 
 ### Running the Client
 
 To run the client, use the following command:
 
+run client: npm run dev
+
+### Other Commands
+
+To get node_modules
+
+npm install
 
 ### Endpoints
 
