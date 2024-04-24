@@ -39,17 +39,8 @@ Time allotted: 2 Hours
 
 1. Install dependencies:
 
-"dependencies": {
-    "bcrypt": "^5.1.1",
-    "body-parser": "^1.20.2",
-    "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.1",
-    "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.1.1",
-    "nodemon": "^3.1.0"
-  }
+<img width="185" alt="image" src="https://github.com/deepak14ri/login-project-with-mern/assets/49471265/c7072ee5-4a9a-45c3-a54c-29e12b5d3bef">
+
 
 ## Usage
 
